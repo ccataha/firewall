@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firewall-2", "Firewall-2\Firewall-2.csproj", "{BD44183B-77F1-487A-8ED9-6070F32B6D30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{304581AE-7DDD-4684-BA72-B9A190527421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Debug|Any CPU.Build.0 = Debug|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Debug|x64.ActiveCfg = Debug|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Debug|x64.Build.0 = Debug|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Debug|x86.ActiveCfg = Debug|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Debug|x86.Build.0 = Debug|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Release|x64.ActiveCfg = Release|x64
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Release|x64.Build.0 = Release|x64
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Release|x86.ActiveCfg = Release|x86
+		{BD44183B-77F1-487A-8ED9-6070F32B6D30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1159CD7D-0589-4D65-9AF8-B0A92DECC589}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\bin\x86\Debug\Firewall-2.exe.config
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\bin\x86\Debug\Firewall-2.exe
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\bin\x86\Debug\Firewall-2.pdb
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\bin\x86\Debug\NdisApiDotNet.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\bin\x86\Debug\NdisApiDotNetPacketDotNet.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\bin\x86\Debug\PacketDotNet.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\obj\x86\Debug\Firewall-2.csprojAssemblyReference.cache
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\obj\x86\Debug\Firewall-2.csproj.CoreCompileInputs.cache
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\obj\x86\Debug\Firewall-2.csproj.CopyComplete
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\obj\x86\Debug\Firewall-2.exe
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб2\Firewall-2\Firewall-2\obj\x86\Debug\Firewall-2.pdb
